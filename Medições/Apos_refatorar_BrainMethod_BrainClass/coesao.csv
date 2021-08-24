@@ -1,0 +1,92 @@
+Kind,Name,PercentLackOfCohesion
+Public Class,"controller.Comercial",90
+Class,"controller.Comercial.obterListaProdutosNomeOrdenada.(Anon_1)",0
+Class,"controller.Comercial.ordenarArrayListNome.(Anon_2)",0
+Public Class,"error.SisComException",75
+Public Class,"model.Cliente",87
+Public Class,"model.Compra",72
+Public Class,"model.Estatistica",77
+Public Class,"model.Fornecedor",75
+Public Class,"model.ItemCompra",62
+Public Class,"model.ItemVenda",66
+Public Abstract Class,"model.Pessoa",75
+Public Class,"model.Produto",85
+Class,"model.Produto.obterListaProdutosEstoqueMin.(Anon_1)",0
+Public Class,"model.Venda",78
+Public Class,"model.Vendedor",73
+Public Class,"utilitarios.Console",0
+Public Class,"utilitarios.CustomTransferHandler",100
+Public Class,"utilitarios.InterfaceUtil",0
+Class,"utilitarios.InterfaceUtil.addPopup.(Anon_1)",0
+Public Class,"utilitarios.LtpLib",99
+Public Class,"view.Colors",0
+Public Class,"view.InterfaceBase",75
+Class,"view.InterfaceBase.InterfaceBase.(Anon_1)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_10)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_11)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_12)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_2)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_3)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_4)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_5)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_6)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_7)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_8)",0
+Class,"view.InterfaceBase.InterfaceBase.(Anon_9)",0
+Public Class,"view.InterfaceComercial",97
+Public Class,"view.InternalFrameVendaCliente",64
+Class,"view.InternalFrameVendaCliente.InternalFrameVendaCliente.(Anon_1)",0
+Class,"view.InternalFrameVendaCliente.InternalFrameVendaCliente.(Anon_2)",0
+Class,"view.InternalFrameVendaCliente.InternalFrameVendaCliente.(Anon_3)",0
+Class,"view.InternalFrameVendaCliente.InternalFrameVendaCliente.(Anon_4)",0
+Class,"view.InternalFrameVendaCliente.InternalFrameVendaCliente.(Anon_5)",0
+Public Class,"view.PanelClienteCenter",84
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_1)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_2)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_3)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_4)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_5)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_6)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_7)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_8)",0
+Class,"view.PanelClienteCenter.PanelClienteCenter.(Anon_9)",0
+Public Class,"view.PanelFornecedorCenter",91
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_1)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_10)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_11)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_12)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_13)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_14)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_15)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_16)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_2)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_3)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_4)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_5)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_6)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_7)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_8)",0
+Class,"view.PanelFornecedorCenter.PanelFornecedorCenter.(Anon_9)",0
+Public Class,"view.PanelProdutosCenter",56
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_1)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_2)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_3)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_3).actionPerformed.(Anon_4)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_5)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_6)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_7)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_8)",0
+Class,"view.PanelProdutosCenter.PanelProdutosCenter.(Anon_9)",0
+Public Class,"view.PanelVendedorCenter",89
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_1)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_10)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_11)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_12)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_2)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_3)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_4)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_5)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_6)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_7)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_8)",0
+Class,"view.PanelVendedorCenter.PanelVendedorCenter.(Anon_9)",0
